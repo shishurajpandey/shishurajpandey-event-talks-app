@@ -1,0 +1,44 @@
+[
+  {
+    "title": "The Future of AI in Software Development",
+    "speakers": ["Dr. Ada Lovelace"],
+    "category": ["AI", "Software Engineering"],
+    "duration": "1 hour",
+    "description": "An insightful look into how AI is revolutionizing the software development lifecycle, from automated code generation to intelligent testing."
+  },
+  {
+    "title": "Containerization Best Practices with Docker & Kubernetes",
+    "speakers": ["Bytey McByteface", "Kube Contributor"],
+    "category": ["DevOps", "Cloud"],
+    "duration": "1 hour",
+    "description": "Mastering the art of containerization for scalable and resilient applications. Dive deep into Docker and Kubernetes best practices."
+  },
+  {
+    "title": "Modern Frontend Frameworks: React, Vue, or Angular?",
+    "speakers": ["Sarah Frontend"],
+    "category": ["Frontend", "JavaScript"],
+    "duration": "1 hour",
+    "description": "A comprehensive comparison of the leading frontend frameworks, helping you choose the right tool for your next project."
+  },
+  {
+    "title": "Securing Your API Endpoints",
+    "speakers": ["Auth Shield"],
+    "category": ["Security", "Backend"],
+    "duration": "1 hour",
+    "description": "Learn essential strategies and tools to protect your API endpoints from common vulnerabilities and attacks."
+  },
+  {
+    "title": "Data Science with Python: From Zero to Hero",
+    "speakers": ["Dr. Python Data"],
+    "category": ["Data Science", "Python"],
+    "duration": "1 hour",
+    "description": "An introduction to data science concepts and practical applications using Python and its powerful libraries."
+  },
+  {
+    "title": "Effective Communication for Tech Leads",
+    "speakers": ["Lead Communicator"],
+    "category": ["Soft Skills", "Leadership"],
+    "duration": "1 hour",
+    "description": "Enhance your leadership skills with effective communication strategies tailored for technical teams and stakeholders."
+  }
+]
